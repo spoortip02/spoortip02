@@ -6,7 +6,7 @@ I'm a recent graduate of the **Luddy School of Informatics, Computing, and Engin
 
 - 🔭 Currently open to full-time **new grad SWE / Frontend / Full-Stack** roles
 - 🎓 B.S., Informatics — Luddy School of Informatics, Indiana University Bloomington
-- 📫 Reach me: [LinkedIn](#) · [Email](mailto:your-email@example.com) · Portfolio (coming soon)
+- 📫 Reach me: [LinkedIn](www.linkedin.com/in/spoorti-sidramappa-patil) · [Email](patilspoorti02@gmail.com) 
 
 ## 🛠️ Tech I work with
 
